@@ -1,5 +1,5 @@
 # 💫 About Me:
-Physicist and Computer Scientist passionate about science and technology, driven by innovation and curiosity. 🔭👩‍💻
+Software Engineer with a generalist profile, experienced in back-end development, data analysis and product development. Physicist and Computer Scientist passionate about science and technology, driven by innovation and curiosity.
 
 
 ## 🌐 Socials:
