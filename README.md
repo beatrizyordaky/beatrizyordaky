@@ -1,5 +1,5 @@
 # About Me
-Physicist and Computer Scientist passionate about science and technology. Software Engineer with a generalist profile, experienced in full-stack development and data analysis.
+Physicist and Computer Scientist passionate about science, technology, and quantum computing. Software Engineer with a generalist profile, experienced in full-stack development.
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
